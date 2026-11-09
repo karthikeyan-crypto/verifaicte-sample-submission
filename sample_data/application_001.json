@@ -1,0 +1,28 @@
+{
+  "application_id": "DEMO-001",
+  "institution_name": "Example Institute of Technology",
+  "records": [
+    {
+      "record_id": "DOC-001-A",
+      "category": "application_form",
+      "filename": "application_form_demo.txt",
+      "institution_name": "Example Institute of Technology",
+      "expiry_date": null
+    },
+    {
+      "record_id": "DOC-001-B",
+      "category": "institution_certificate",
+      "filename": "institution_certificate_demo.txt",
+      "institution_name": "Example Institute of Technology",
+      "expiry_date": "2027-12-31",
+      "sha256": "demo-hash-certificate-001"
+    },
+    {
+      "record_id": "DOC-001-C",
+      "category": "faculty_statement",
+      "filename": "faculty_statement_demo.txt",
+      "institution_name": "Example Institute of Technology",
+      "expiry_date": null
+    }
+  ]
+}
