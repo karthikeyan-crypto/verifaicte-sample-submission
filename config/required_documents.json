@@ -1,0 +1,9 @@
+{
+  "rule_pack_id": "sample-v1",
+  "description": "Fictional categories used only for the repository-scanner demo.",
+  "required_categories": [
+    "application_form",
+    "institution_certificate",
+    "faculty_statement"
+  ]
+}
