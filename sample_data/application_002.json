@@ -1,0 +1,29 @@
+{
+  "application_id": "DEMO-002",
+  "institution_name": "Sample Polytechnic College",
+  "records": [
+    {
+      "record_id": "DOC-002-A",
+      "category": "application_form",
+      "filename": "application_form_demo_2.txt",
+      "institution_name": "Sample Polytechnic College",
+      "expiry_date": null
+    },
+    {
+      "record_id": "DOC-002-B",
+      "category": "institution_certificate",
+      "filename": "institution_certificate_demo_2.txt",
+      "institution_name": "Sample Polytechnic College",
+      "expiry_date": "2024-03-01",
+      "sha256": "demo-hash-certificate-002"
+    },
+    {
+      "record_id": "DOC-002-C",
+      "category": "other_supporting_document",
+      "filename": "supporting_document_demo.txt",
+      "institution_name": "Different College Name",
+      "expiry_date": null,
+      "sha256": "demo-hash-certificate-002"
+    }
+  ]
+}
